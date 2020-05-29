@@ -1,0 +1,12 @@
+ Ini adalah platform model pendanaan yang didukung
+
+github: # Ganti dengan hingga 4 nama pengguna yang mendukung GitHub, mis., [user1, user2]
+patreon: # Ganti dengan satu nama pengguna Patreon
+open_collective: # Ganti dengan satu nama pengguna Open Collective
+ko_fi: # Ganti dengan satu nama pengguna Ko-fi
+tidelift: # Ganti dengan satu nama platform / nama paket Tidelift misalnya, npm / babel
+community_bridge: # Ganti dengan nama proyek Community Bridge tunggal mis., cloud-foundry
+liberapay: # Ganti dengan nama pengguna Liberapay tunggal
+issuehunt: # Ganti dengan nama pengguna IssueHunt tunggal
+otechie: # Ganti dengan satu nama pengguna Otechie
+kustom: # Ganti dengan hingga 4 URL sponsor kustom mis., ['link1', 'link2']
